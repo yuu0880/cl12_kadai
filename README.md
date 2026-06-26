@@ -27,6 +27,7 @@ img_flip.save(output_image)
   ```python
   python3 flip.py <input_image_path> <output_image_path>
 　```  
+ 
 - 利用例
   ```python
   python3 flip.py input.jpg output.jpg

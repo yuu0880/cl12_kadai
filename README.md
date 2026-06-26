@@ -24,10 +24,12 @@ img_flip.save(output_image)
 ## 3.使い方
 ### 3.1.実行例
 - コマンドラインフォーマット
+
   ```python
   python3 flip.py <input_image_path> <output_image_path>
   ```
 - 利用例
+
   ```python
   python3 flip.py input.jpg output.jpg
   ```
